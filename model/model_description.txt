@@ -1,0 +1,4 @@
+vosk-model-small-en-us-0.15        -     Small model         -     40M
+vosk-model-en-us-0.22-lgraph       -     Medium model        -     128M
+vosk-model-en-us-0.22              -     Large model         -     1.8G
+vosk-model-en-us-0.42-gigaspeech   -     Extra-Large model   -     2.3G
